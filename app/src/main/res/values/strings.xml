@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2 in 1 app</string>
+    <string name="preference_file_key">com.example.2 in 1 app.PREFERENCE_FILE_KEY</string>
+
+</resources>
